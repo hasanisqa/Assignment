@@ -2,6 +2,9 @@
 
 
 
+
+Quality control
+
 Software Quality assurance
 
 purple, pink
@@ -9,6 +12,7 @@ purple, pink
 red, white
 
 yellow, green, black
+
 
 
 
